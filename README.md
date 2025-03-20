@@ -59,7 +59,7 @@ Order ID -Foreign key
 6.	Dashboard creation
 
 
-Explore the Pizza Sales dashboards to make informed decisions, optimize your menu offerings, and drive your pizza business to success. Thank you.
+Explore the Pizza Sales dashboards to make informed decisions, optimize your menu offerings, and drive your pizza business to success. Do check in dashboared folder. Thank you.
 
 If you find this project interesting and useful, show your support by starring ⭐ the repository and sharing it with others. Let's revolutionize productivity together!
 
