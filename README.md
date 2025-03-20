@@ -1,7 +1,7 @@
 # Pizza-sales-Report
 Data Analysis on Pizza sales data 
 
-Problem statement
+1.Problem statement
 
 a)	KPI’s requirement:
 
@@ -25,7 +25,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 6.	Top 5 Best sellers by Revenue, Total Quantity and Total Orders
 7.	Bottom 5 Best sellers by Revenue, Total Quantity and Total Orders
 
-Software used:
+2.Software used:
 
 1.MS OFFICE/EXCEL
 
@@ -35,7 +35,7 @@ Software used:
    
 6. Tableau desktop
 
-Data:
+3.Data:
 
 CSV file
 
@@ -46,7 +46,7 @@ Order ID -Foreign key
 12 columns, 48,000 rows, 1 year data (2015)
 
 
-Steps Involved in data analysis:
+4.Steps Involved in data analysis:
 
 1.	Connect data
 2.	Data cleaning
