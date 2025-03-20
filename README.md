@@ -27,6 +27,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 2.Software used:
 
+
 1.MS OFFICE/EXCEL
 
 2. MS SQL server
