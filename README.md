@@ -56,7 +56,7 @@ Order ID -Foreign key
 3.	Data processing
 4.	Data analysis
 5.	Data visualization
-6.	Dashboard
+6.	Dashboard creation
 
 
 
