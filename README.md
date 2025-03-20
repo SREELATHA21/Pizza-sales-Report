@@ -24,6 +24,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 7.	Bottom 5 Best sellers by Revenue, Total Quantity and Total Orders
 
 Software used:
+
 1.MS OFFICE/EXCEL
 
 2. MS SQL server
@@ -33,13 +34,18 @@ Software used:
 6. Tableau desktop
 
 Data:
+
 CSV file
+
 Pizza Id -Primary key
+
 Order ID -Foreign key
+
 12 columns, 48,000 rows, 1 year data (2015)
 
 
 Steps Involved in data analysis:
+
 1.	Connect data
 2.	Data cleaning
 3.	Data processing
