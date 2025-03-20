@@ -2,7 +2,9 @@
 Data Analysis on Pizza sales data 
 
 Problem statement
+
 a)	KPI’s requirement
+
 b)	Charts requirement
 
 a)	KPI’s requirement:
