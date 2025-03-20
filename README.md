@@ -3,10 +3,6 @@ Data Analysis on Pizza sales data
 
 Problem statement
 
-a)	KPI’s requirement
-
-b)	Charts requirement
-
 a)	KPI’s requirement:
 
 We need to analyzes key indicators for our pizza sales data to gain insights into our business performance.
