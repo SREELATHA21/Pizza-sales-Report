@@ -8,7 +8,9 @@ a)	KPI’s requirement
 b)	Charts requirement
 
 a)	KPI’s requirement:
+
 We need to analyzes key indicators for our pizza sales data to gain insights into our business performance.
+
 1.	Total Revenue
 2.	Average orders values
 3.	Total pizzas sold
@@ -16,7 +18,9 @@ We need to analyzes key indicators for our pizza sales data to gain insights int
 5.	Average pizzas per order
 
 b)	Charts requirement:
+
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends.
+
 1.	Daily trends for Total orders
 2.	Monthly/Hourly/Weekly trends for total orders
 3.	Percentage of sales by pizza category
